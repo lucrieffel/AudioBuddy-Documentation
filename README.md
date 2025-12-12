@@ -201,7 +201,6 @@ AudioBuddy requires access to:
 - **Project Name:** AudioBuddy
 - **Project ID:** audiobuddy-7011f
 - **Project Number:** 600195296339
-<!-- - **Web API Key:** AIzaSyAgV0ogajaRCqwHlABwQHk71FmpH18HmNQ -->
 
 For access to the Firebase project, contact:
 - Luc Rieffel: lucrieffel8@gmail.com
