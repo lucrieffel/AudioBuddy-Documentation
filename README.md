@@ -1,7 +1,7 @@
 # AudioBuddy
 
 <div align="center">
-<img src="HRTest_AR/Assets.xcassets/AppIcon.appiconset/AudioBuddy Logo (1024X1024px) (1).png" width="120" alt="AudioBuddy Logo">
+<img src="Audiobuddy_logo.png" width="120" alt="AudioBuddy Logo">
 </div>
 
 ## 📱 Overview
