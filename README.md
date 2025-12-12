@@ -4,6 +4,26 @@
 <img src="Audiobuddy_logo.png" width="120" alt="AudioBuddy Logo">
 </div>
 
+## 🚀 Download the App
+
+<div align="center">
+
+**AudioBuddy is available for beta testing via TestFlight!**
+
+[![Download on TestFlight](https://img.shields.io/badge/Download_on-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/MvG3HVAD)
+
+### How to Install
+
+1. **Install TestFlight** on your iPhone from the [App Store](https://apps.apple.com/app/testflight/id899247664)
+2. **Open the invitation link**: [testflight.apple.com/join/MvG3HVAD](https://testflight.apple.com/join/MvG3HVAD)
+3. **Tap "Accept"** to join the beta, then **tap "Install"**
+
+> **Requirements:** iPhone running iOS 16 or later
+
+</div>
+
+---
+
 ## 📱 Overview
 
 AudioBuddy is a health and wellness application designed to monitor heart rate, environmental noise levels, and mood, while providing users with coping strategies and an ally support network during stressful situations.
